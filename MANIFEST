@@ -10,5 +10,6 @@ lib/Acme/NumericMethod.pm
 metamerge.json
 t/00.use.t
 t/01.one.t
-t/02.pod.t
-t/03.pod-coverage.t
+t/04.one_hundred.t
+xt/02.pod.t
+xt/03.pod-coverage.t

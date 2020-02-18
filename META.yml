@@ -16,13 +16,13 @@ name: Acme-NumericMethod
 provides:
   Acme::NumericMethod:
     file: lib/Acme/NumericMethod.pm
-    version: '0.04'
+    version: '0.05'
 requires:
   Lingua::EN::Words2Nums: '0'
 resources:
   bugtracker: https://github.com/gugod/Acme-NumericMethod/issues
   repository: https://github.com/gugod/Acme-NumericMethod.git
-version: '0.04'
+version: '0.05'
 x_serialization_backend: 'CPAN::Meta::YAML version 0.018'
 x_spdx_expression: 'Artistic-1.0-Perl OR GPL-1.0-or-later'
 x_static_install: '1'

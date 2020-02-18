@@ -6,6 +6,7 @@ SYNOPSIS
 
       use Acme::NumericMethod;
       print one(); # 1
+      print one_million_forty_two(); # 1000042
 
 AUTHOR
 
