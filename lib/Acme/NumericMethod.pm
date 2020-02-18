@@ -28,6 +28,10 @@ Acme::NumericMethod - I know numeric methods
   print one(); # 1
   print one_million_forty_two(); # 1000042
 
+=head1 SEE ALSO
+
+L<Acme::Numbers>, L<Lingua::EN::Words2Nums>
+
 =head1 AUTHOR
 
 Kang-min Liu <gugod@gugod.org>
